@@ -1,2 +1,1 @@
-# maven-repo
-My Maven Repository
+# Jason Gardner's Maven Repo
